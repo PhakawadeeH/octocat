@@ -1,2 +1,2 @@
 
-octocat is octopus eat ca
+octopus+cat = octocat
